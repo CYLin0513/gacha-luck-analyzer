@@ -1,6 +1,6 @@
 # 🎲 Luck Lab — Gacha Luck Analyzer
 
-> ⚠️ **這只是一份 GenAI / Vibe Coding 課程實驗作業，並非嚴謹或生產級的工具。**
+> ⚠️ **這只是一份 GenAI / Vibe Coding 課程作業，並非嚴謹或實用的工具。**
 
 一個輸入「機率、抽數、中獎數」來計算「你到底有多衰」的二項分佈網頁分析器。
 
